@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ConnectDB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConnectDB_jar</output-path>
+    <root id="archive" name="ConnectDB.jar">
+      <element id="module-output" name="ConnectDB" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-csv-1.10.0-bin/commons-csv-1.10.0/commons-csv-1.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/postgresql-42.3.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
